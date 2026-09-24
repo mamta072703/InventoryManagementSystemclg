@@ -1,0 +1,6 @@
+{
+  "name": "Stationery Shop Inventory Management",
+  "description": "Dark-themed shopkeeper inventory management and billing system for tracking stationery stock and recording customer purchases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
